@@ -10,7 +10,6 @@ fn main() {
                     println!("The correct number is: {}", guess)
                 }
            }
-
         });
     }
 }
