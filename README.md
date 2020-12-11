@@ -8,6 +8,5 @@ here is how to run it!
 3. cargo run --release
 4. watch the world burn
 
-______________________________________________________________________________________________________________________
 Q: it quits after awhile
 A: you may to set the maxium amount of threads by changing /proc/sys/kernel/threads-max 
