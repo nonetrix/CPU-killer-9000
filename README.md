@@ -7,6 +7,4 @@ here is how to run it!
 2. cd CPU-killer-9000
 3. cargo run --release
 4. watch the world burn
-
-Q: it quits after awhile
-A: you may to set the maxium amount of threads by changing /proc/sys/kernel/threads-max 
+4.5. you may to set the maxium amount of threads by changing /proc/sys/kernel/threads-max 
